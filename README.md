@@ -62,7 +62,7 @@ getgenv().Setting = {
                 },
 
                 ["C"] = {
-                    ["Enable"] = true,
+                    ["Enable"] = false,
                     ["HoldTime"] = 0,
                 },
                 ["V"] = {
@@ -70,7 +70,7 @@ getgenv().Setting = {
                     ["HoldTime"] = 0,
                 },
                 ["F"] = {
-                    ["Enable"] = fales,
+                    ["Enable"] = true,
                     ["HoldTime"] = 0,
                 },
             },
